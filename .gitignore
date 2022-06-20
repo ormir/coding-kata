@@ -1,2 +1,4 @@
 */**/.idea
 */**/cmake-build-debug
+**/*/test/libs
+.DS_Store
