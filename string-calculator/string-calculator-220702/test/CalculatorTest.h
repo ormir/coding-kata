@@ -1,0 +1,14 @@
+//
+// Created by Ormir Gjurgjej on 02.07.22.
+//
+
+#ifndef STRING_CALCULATOR_220802_CALCULATORTEST_H
+#define STRING_CALCULATOR_220802_CALCULATORTEST_H
+
+
+class CalculatorTest {
+
+};
+
+
+#endif //STRING_CALCULATOR_220802_CALCULATORTEST_H
